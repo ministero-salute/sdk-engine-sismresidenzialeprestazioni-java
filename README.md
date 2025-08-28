@@ -36,7 +36,7 @@ Nella tabella riportata di seguito sono elencati tutti gli acronimi e le definiz
 
 
 # **2. Architettura SDK**
-L'architettura degli SDK è disponibile al seguente link [`ARCHITECTURE.md`](https://github.com/ministero-salute/sdk-utilities-regole-properties/ARCHITECTURE.md).
+L'architettura degli SDK è disponibile al seguente link [`ARCHITECTURE.md`](https://github.com/ministero-salute/sdk-utilities-regole-properties/blob/main/ARCHITECTURE.md).
 
 
 # **3. Funzionamento della soluzione SDK**
@@ -213,4 +213,5 @@ Per ulteriori informazioni, contattare:
 - **Amministrazione titolare**: [Ministero della Salute](https://www.salute.gov.it)
 
 ## mantainer:
+
  Accenture SpA until January 2026
